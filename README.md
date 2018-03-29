@@ -17,3 +17,4 @@ This is command line game. To get potential positions we need two arguments whil
   1) Remaining piece's
   2) Make it  modular by creating board class.
   3) Allow multiple piece on board and then finding available moves.
+  4) DRY code as there are duplication.
